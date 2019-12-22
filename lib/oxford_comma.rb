@@ -4,3 +4,4 @@ end
 
 def comma(array)
   ["kiwi", "durian"].join("and")
+end
