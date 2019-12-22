@@ -2,5 +2,5 @@ def oxford_comma(array)
   ["kiwi",].join
 end
 
-def oxford_comma(2)
+def comma(array)
   ["kiwi", "durian"].join("and")
